@@ -1,4 +1,4 @@
-#FREE NOW React Frontend Test
+#This is React Frontend Test
 Please finish the tasks specified below and send us the code as a '.zip' file afterwards.
 Keep the following in mind while implementing the given tasks:
 - The task is chosen to be simple enough to be finished within a maximum of four hours.
@@ -11,7 +11,7 @@ Keep the following in mind while implementing the given tasks:
 
 Good Luck!
 
-_NOTE: Please DO NOT publish the project, e.g. by uploading it to GitHub or the like!_
+
 
 ---
 
